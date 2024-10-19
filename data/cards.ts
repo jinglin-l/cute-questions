@@ -1229,7 +1229,23 @@ export interface Card {
       {
         id: 306,
         question: "What is something you are confident you will never do in your life?"
-      }
+      },
+      {
+        id: 307,
+        question: "What is the most capable version of yourself that you can imagine?"
+    },
+    {
+        id: 308,
+        question: "What would you be like/spend your time doing if all your current major problems had been solved?"
+    },
+    {
+        id: 309,
+        question: "What are the things you say you value but don't act as if you value, and what would your life feel like on the inside if you actually acted as if you valued those things?"
+    },
+    {
+        id: 310,
+        question: "What are you afraid of doing, and what would your life be like if you weren't afraid of doing those things?"
+    },
     ];
     
     export default cards;
