@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Cute Questions
+
+Cute Questions is a questions game inspired by the NYT's 36 Questions to Fall in Love but I found offers a less-cringe experience. I could not hunt down who authored the lovely questions, but they are taken from [here](https://docs.google.com/document/u/1/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/edit?usp=drivesdk).
+
+ Check it out here 👉🎉 [Cute Questions](https://cute-questions-cbix.vercel.app/) 🎈✨.
+
 
 ## Getting Started
 
@@ -34,3 +39,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+`
