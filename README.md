@@ -1,6 +1,6 @@
 ## Cute Questions
 
-Cute Questions is a questions game inspired by the NYT's 36 Questions to Fall in Love but I found offers a less-cringe experience. I could not hunt down who authored the lovely questions, but they are taken from [here](https://docs.google.com/document/u/1/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/edit?usp=drivesdk).
+Cute Questions is a questions game inspired by the NYT's 36 Questions to Fall in Love but I found offers a less-cringe experience. I could not hunt down who authored the lovely questions for a proper attribution, but they are taken from [here](https://docs.google.com/document/u/1/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/edit?usp=drivesdk).
 
  Check it out here 👉🎉 [Cute Questions](https://cute-questions-cbix.vercel.app/) 🎈✨.
 
