@@ -105,9 +105,6 @@ export default function Home() {
 
       {/* Bottom section */}
       <div className="w-full">
-        <div className="text-center mb-4">
-          <p className="text-gray-600 dark:text-gray-400">LEVEL 3 - 7 / 40</p>
-        </div>
         <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2.5 mb-4">
           <div 
             className="bg-blue-600 h-2.5 rounded-full" 
