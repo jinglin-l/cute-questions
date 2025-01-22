@@ -7,6 +7,12 @@ Cute Questions is a questions game inspired by the NYT's 36 Questions to Fall in
 
 [![Connect With People](assets/homepage.png)](https://cute-questions-cbix.vercel.app/)
 
+<div align="center">
+  <img src="assets/q1.png" width="300" alt="Sample Question 1" />
+  <img src="assets/q2.png" width="300" alt="Sample Question 2" />
+  <img src="assets/q3.png" width="300" alt="Sample Question 3" />
+</div>
+
 ## Getting Started
 
 First, run the development server:
